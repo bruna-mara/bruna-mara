@@ -10,6 +10,7 @@
 - :woman_technologist: **Desenvolvedora Full Stack**
 - :books:**Concluí recentemente o bootcamp de Desenvolvimento de Software Full Stack da Generation Brasil**
 - :bulb:**Trabalhando atualmente no desenvolvimento do Jobster 2.0- aplicativo que conecta candidatos e oportunidades de emprego**
+- :student: **Atualmente estudando Scrum- Metodologias Ágeis**
 
 
 
@@ -31,6 +32,7 @@
  * <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='25'> **Docker**
  * <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg' alt='postman' height='25'> **Postman**
  * <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' height='25'> **Heroku**
+ 
 
 
 
